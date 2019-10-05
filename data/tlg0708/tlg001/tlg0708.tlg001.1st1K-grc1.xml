@@ -20,11 +20,11 @@
  </respStmt>
  <respStmt>
   <persName>Matt Munson</persName>
-  <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+  <resp>Project Manager (University of Leipzig)</resp>
  </respStmt>
  <respStmt>
   <persName>Annette Gessner</persName>
-  <resp>Project Assistant (University of Leipzig) 2015 - present</resp>
+  <resp>Project Assistant (University of Leipzig)</resp>
  </respStmt>
  <respStmt>
   <persName>Thibault Clérice</persName>
@@ -88,7 +88,7 @@
 <body>
 <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg0708.tlg001.1st1K-grc1">
 <pb n="1"/>
-<head>ΑΜΜAΙΟΥ
+<head>ΑΜΜΑΙΟΥ
 ΠΕΡΙ ΟΜΟΙΩΝ ΚΑΙ ΔΙΑΦΟΡΩΝ ΛΕΞΕΩΝ</head>
 
 <div type="textpart" subtype="chapter" n="1">

@@ -22,11 +22,11 @@
         </respStmt>
         <respStmt>
           <persName>Matt Munson</persName>
-          <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+          <resp>Project Manager (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Annette Geßner</persName>
-          <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+          <resp>Project Assistant (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Thibault Clérice</persName>
@@ -53,8 +53,7 @@
       <publicationStmt>
         <authority>University of Leipzig</authority>
         <idno type="filename">tlg3129.ogl001.1st1K-grc1.xml</idno>
-        <availability>
-          <p n="1">Available under a Creative Commons Attribution-ShareAlike 4.0 International
+        <availability><p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
             License</p>
         </availability>
         <date>2014</date>
@@ -74,7 +73,7 @@
               <author ref="urn:cts:greekLit:tlg4090">Cyrilli Archiepiscopi Alexandrini</author>
               <imprint>
                 <publisher>E Typographeo Clarendoniano</publisher>
-                <pubPlace>Droni</pubPlace>
+                <pubPlace>Oxoni</pubPlace>
                 <date>1868</date>
               </imprint>
               <biblScope unit="volume">1-2</biblScope>
@@ -84,9 +83,9 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p n="1">Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
+      <p>Text encoded in accordance with the latest EpiDoc standards (January 2014)</p>
       <refsDecl n="CTS">
-        <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:p[@n='$1'])"/>
+        <cRefPattern n="paragraph" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
       </refsDecl>
     </encodingDesc>
     <profileDesc>
@@ -105,7 +104,7 @@
 <pb n="627 "/>
 <head>QUAE THEOPIIYLACTI Ν ΓΓ. 5 14 sqq., PRO D. CYRILLI
 COMMENTARIIS DEDIT COD. B, HIC DEDIMUS.</head>
-<p n="1">Καὶ σὺ καρδία σαλεύθητι καὶ σείσθητι. πρὸς τὴν τοῦ βαβυλωνίου καρδίαν
+<div type="textpart" subtype="paragraph" n="1"><p>Καὶ σὺ καρδία σαλεύθητι καὶ σείσθητι. πρὸς τὴν τοῦ βαβυλωνίου καρδίαν
 φησὶν, ὅτι πολλοὶ ὑπὸ σοῦ ἐσαλεύθησαν πρὶν, νῦν οὖν καὶ σὺ ἡ μηδέποτε ἐλπίσασα
 σαλευθῆναι καὶ μεταπεσεῖν ἀπὸ τῆς εὐημερίας, ἀλλ’ ἀκράδαντος ἐσαεὶ στήσεσθαι καὶ
 διὰ τοῦτο σκληρυνομένη, σαλεύθητι, τουτέστι, σύνες ὅτι μετέπεσέ σοι ἡ εὐημερία,
@@ -147,11 +146,11 @@ iκr·κλωλ σε τ πντ»/^)•ον τοὺ Αιι^ίτοί’, δ ‘γ
 iU-t^f\\^nivtj\• φιτ‘ως, νΙν a̓́τ‘μος γ*γο»χΐί. -lnιργηἳς Τρ, ἳλ‘lτυς ε’ιθμς. Ιιόn
 ἃ‘’β“α τοῦ λφωιἢυ καλόφ‘ι σ«. ὁ λιἰλι-,ς ‘,̓́μ’ς ‘ μς φ̔́Κκης, ‘‘ψλόν υ
 κ«» fiwiVi. THi^ififni^ft W ι γρuφὴ τοι; υμ̀ ἱει’‘’’‘-ιλι〉μ, ὡς μqἰσnιν -ιὶ ᾠn,ρηρ-
-κ‘διaἰ τοῦ λιβύ’̔̀υ Λί ίφίτίνσΛί, *κΰ στρονΟΜ ‘’νἳ‘τσ‘ιφ’ι’σιν. ἰκαοτος Τφ τῶν
+κ‘διαἰ τοῦ λιβύ’̔̀υ Λί ίφίτίνσΛί, *κΰ στρονΟΜ ‘’νἳ‘τσ‘ιφ’ι’σιν. ἰκαοτος Τφ τῶν
 ‘γίων κμ̀Λο fiHJCf, ιὶ τΙ ὑφοῦ ἠρθυ. ικ̀’δ‘·ιmυ W τΐ)»•? ·̀π’ ιlζ'τΥ- ιἱlἳmμ,υς,
 καὶ tnctV»;
 καλίΛ^» ὁ. κὼ ταλαιπωρία Οηρἰων τττοήσίΐ α,̔ ἳρια τὸ“̀ π̔ρι --,ικ̓́ φησιγ ὡς
-τΓολι• τὺ ιἴγιaον **\*&gt;»τ\ΐϊ. ἡ ‘’ι’̀ν r\\K»tjrvi&gt;pia ἱν οἱn̓́ ‘’π‘φ́,υσι· σl̓́, πτυιο1ι (ύ,
+τΓολι• τὺ ιἴγιαον **\*&gt;»τ\ΐϊ. ἡ ‘’ι’̀ν r\\K»tjrvi&gt;pia ἱν οἱn̓́ ‘’π‘φ́,υσι· σl̓́, πτυιο1ι (ύ,
 mύστι. Tti-nrtiixW κuὶ δ‘λͅλν κιὶ ‘ἰ‘ἱκ--ι ιτ^Ηψτα. ἱλͅλι -ὺ όσ‘β‘ια ,̔͂λλ.〉 ἢν tV
 τΤ- λιβ‘ἰ̔́ πιίλ(Η διι η)»" tKti ‘ἰ‘.ι’ιιτι,ιιιν· τοῖς Τφ ἰ4ηλοφς̓́ τ·- τορῶν
 *πίφοίτν&gt;γ οἱ ἱlιιιι-4,̓ι’,ιn,̔́ ὡς tK«4tr ι-̔ἱ Ttuj ‘lιμωτι ΟΛ’ν^ιηψαχΗ’ δι’ φ̀ ὁ
@@ -215,6 +214,7 @@ i‘ἰρι,ι·ν ί* εἰ‘λ̓̀-, Γοΰ’ μὴ δυ-1μ‘,̔̀ις m�
 κατοικεῖ. πάντες οὖν οἱ τὰ τῆς γῆς φρονοῦντες εὐλαβείσθωσαν ἀπὸ τοῦ προσώπου
 αὐτοῦ· τῆς δευτέρας φημὶ παρουσίας, ὅτε ἦξει ἐπισκέψασθαι τὰ ἡμέτερα φοβερώτερον,
 οὐχὶ διορθώσασθαι.</p>
+</div>
 </div>
 </body>
 </text>

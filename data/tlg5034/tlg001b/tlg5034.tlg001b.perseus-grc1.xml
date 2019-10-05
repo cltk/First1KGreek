@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-    
+	<teiHeader xml:lang="eng">    
 		<fileDesc>
 			<titleStmt>
 				<title xml:lang="mul">Scholia in Pindarum Pythian Odes</title>
 				<author>Pindar Scholia</author>
 				<editor>A. B. Drachmann</editor>
-				<funder>A Google Digital Humanities Award</funder>
+				<funder>Google Digital Humanities Awards Program</funder>
 				<principal>Gregory Crane</principal>
 				<respStmt>
 					<persName xml:id="DDD">Digital Divide Data</persName>
@@ -20,11 +19,11 @@
 				</respStmt>
 				<respStmt>
 					<persName>Matt Munson</persName>
-					<resp>Project Manager (University of Leipzig), 2016 - present</resp>
+					<resp>Project Manager (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Annette Gessner</persName>
-					<resp>Project Assistant (University of Leipzig) 2015 - present</resp>
+					<resp>Project Assistant (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Thibault Clérice</persName>
@@ -47,7 +46,7 @@
 						<analytic/>
 						<monogr>
 							<author>Scholia Pindar</author>
-							<title xml:lang="mul">Scholia in Pindarum Pythian Odes</title>
+							<title xml:lang="lat">Scholia in Pythionicas</title>
 							<editor>A. B. Drachmann</editor>
 							<imprint>
 								<pubPlace>Leipzig</pubPlace>
@@ -56,8 +55,8 @@
 							</imprint>
 							
 						</monogr>
-						<series><title level="s" xml:lang="lat">Scholia in Olympionicas</title><biblScope n="volume">2</biblScope></series>
-						
+						<series><title level="s" xml:lang="lat">Scholia vetera in Pindari carmina</title>
+							<biblScope n="volume">2</biblScope></series>						
 						<ref target="https://archive.org/details/scholiaveterainp02drac">Internet Archive</ref>
 					</biblStruct>
 				</listBibl>
@@ -5100,7 +5099,7 @@
 					<p><note n="BDEGQ"/>μακάριος, ὃς ἔχεις: μακάριος δὲ καὶ εὐδαίμων τυγχάνεις, ὅστις καὶ μετὰ
 						τὸν μέγαν κάματον διὰ τῶν ἐμῶν <note n="5"/> φερτάτων λόγων, τουτέστι τῶν ὕμνων, ἔχεις
 						μνημεῖα τῶν καμάτων. ταῦτα δὲ ἤτοι πρὸς τὸν Ἀρκεσίλαον λέγει διὰ τὸ στάσεσι κεχρῆσθαι
-						πρὸς τοὺς ὑπηκόoυς, ἢ πρὸς τὸν Κάρρωτον, διότι περὶ τὴν τῶν ἐποίκων συλλογὴν πολλὰ
+						πρὸς τοὺς ὑπηκόους, ἢ πρὸς τὸν Κάρρωτον, διότι περὶ τὴν τῶν ἐποίκων συλλογὴν πολλὰ
 						ἐταλαιπώρησεν.</p>
 				</div>
 

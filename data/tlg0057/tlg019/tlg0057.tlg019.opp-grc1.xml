@@ -22,11 +22,11 @@
         </respStmt>
         <respStmt>
           <persName>Matt Munson</persName>
-          <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+          <resp>Project Manager (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Annette Geßner</persName>
-          <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+          <resp>Project Assistant (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Thibault Clérice</persName>
@@ -52,7 +52,7 @@
       </titleStmt>
       <publicationStmt>
 <authority>University of Leipzig</authority>
-<idno type="filename">TO BE ADDED BY LEIPZIG</idno>
+<idno type="filename">tlg0057.tlg019.opp-grc1.xml</idno>
 <availability>
  <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
   License</p>
@@ -102,7 +102,7 @@
     <body><div type="edition" n="urn:cts:greekLit:tlg0057.tlg019.opp-grc1" xml:lang="grc">
   <div type="textpart" subtype="section" n="1">
 <pb n="3"/>
-<milestone unit="altpage" n="f. 133rG"/> <head>ΓAΛHNOΥ
+<milestone unit="altpage" n="f. 133rG"/> <head>ΓΑΛHNOΥ
 ΠEPI ΛΕΠΤΥΝΟΥΣΗΣ ΔΙΑΙΤΗΣ</head>
 <p>Ἐπειδὴ τὰ πλεῖστα τῶν χρονίων ἀρρωστημάτων <milestone unit="chapter" n="II"/>
 λεπτυνούσης χρήζει διαίτης, ὧς πολλάκις ἐπὶ μόνη

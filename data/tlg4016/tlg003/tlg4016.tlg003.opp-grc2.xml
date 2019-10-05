@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    
+  <teiHeader xml:lang="eng">    
     <fileDesc>
-            <titleStmt><title>Commentaria in Aristotelem Graeca</title>
+        <titleStmt><title xml:lang="lat">In Aristotelis Librum De Interpretatione Commentarius</title>
+            <author xml:lang="lat">Ammonius</author>
+            <editor>Adolf Busse</editor>
                 <sponsor>University of Leipzig</sponsor>
                 <funder>European Social Fund Saxony</funder>
                 <principal>Gregory Crane</principal>
@@ -18,11 +19,11 @@
         </respStmt>
         <respStmt>
           <persName>Matt Munson</persName>
-          <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+          <resp>Project Manager (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Annette Geßner</persName>
-          <resp>Project Assistant (University of Leipzig), 2015 - present</resp>
+          <resp>Project Assistant (University of Leipzig)</resp>
         </respStmt>
         <respStmt>
           <persName>Thibault Clérice</persName>
@@ -48,37 +49,37 @@
       </titleStmt>
       <publicationStmt>
                 <authority>University of Leipzig</authority>
-                <idno type="filename">commentaria_4_2.xml</idno>
-                <availability><p>
-                    <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</ref></p>
+                <idno type="filename">tlg4016.tlg003.opp-grc2.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
                 </availability>
-                <date>2014</date>
+                <date>2016</date>
                 <publisher>University of Leipzig</publisher>
                 <pubPlace>Germany</pubPlace>
             </publicationStmt>
             
             <sourceDesc>
-                <listBibl xml:lang="lat">
+                <listBibl>
                     <biblStruct>
                         <monogr>
                             <editor>
                                 <persName>
                                     <name xml:lang="lat">Adolfus Busse</name>
-                                    <addName xml:lang="de">Adolf Busse</addName>
                                 </persName>
                             </editor> 
-                            <author ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg2036">Dexippus</author>  
-                            <title ref="http://data.perseus.org/catalog/urn:cts:greekLit:tlg2036.tlg001.opp-grc1">In Aristotelis Categorias Commentarium</title>
+                            <author ref="urn:cts:greekLit:tlg4016">Ammonius</author>  
+                            <title>Ammonius In Aristotelis Librum De Interpretatione Commentarius</title>
                             <imprint>
-                                <publisher>Berolini: Typis et Impensis G. Reimeri</publisher>
+                                <publisher>Reimer</publisher>
                                 <pubPlace>Berlin</pubPlace>
                                 <date>1888</date>
                             </imprint>
-                            <biblScope>Volume 4.2</biblScope>
                         </monogr>
+                        <series>
+                            <title xml:lang="lat">Commentaria in Aristotelem Graeca</title>
+                            <biblScope unit="volume">4.5</biblScope>
                         <ref target="https://archive.org/details/commentariainari04akaduoft">Internet Archive</ref>
-                        
-                        
+                        </series>                        
                     </biblStruct>
                 </listBibl>
             </sourceDesc>
@@ -916,7 +917,7 @@ om. AFMa κὰτ.] p. 4b32 29. 30 παραδεδ.] δεδομένης G 31 τ�
 ἀλλήλοις καὶ συμπολιτεύεσθαι· κοινωνικὸν γὰρ ζῷον ὁ ἄνθρωπος· διόπερ <lb n="10"/>
 οἱ μὴ κεχρημένοι ταῖς αὐταῖς φωναῖς οὐδὲ κοινωνοῦσι πολιτείας ἀλλήλοις
 <lb n="35"/> ὡς μὴ γινώσκοντες τὰς ἀλλήλων ἐννοίας. τὰ δὲ γράμματα τέλος ἔχει τὸ
-<note type="footnote">1 τώ ὀνόματι G1 3 καὶ om. FG 4 τῶν Κaτηγ.] p. 2a9 5 τό τε τὸ G
+<note type="footnote">1 τώ ὀνόματι G1 3 καὶ om. FG 4 τῶν Κατηγ.] p. 2a9 5 τό τε τὸ G
 6 τῶν ἄλλων φωνῶν (pr. 1.) Fa ὡς αἴτια—ἐπιδεχόμενα (8) suppl. in mrg.
 post αἴτια add. περὶ del. G 7 ἀπλᾶ om. G τὰ δὲ ὑπὸ a 11 καθ’ αὐτοῖς Fa
 II ἔτι FGa: εἴποι Α: εἴπῃ M τοῖς συνθέτοις om. G 13 τοῦ ῥήματος supra scr. G
@@ -11840,7 +11841,7 @@ om. Α 30 ante καθ’ add. καὶ M καὶ ἡ τὴν—ψεύδεται 
 τὴν ἀπόφασιν ἐναντιωτέραν τῆς ἐναντίας καταφάσεως, ἀλλὰ μᾶλλον ἀντικειμένην <lb n="25"/>
 <lb n="35"/> κατὰ τὴν ἔννοιαν τῶν ἁπλῶς ἀντικειμένων, οὐ τῶν ἐναντίων, καὶ
 <note type="footnote">2 ἀληθεύουσα] ἀληθὴς Α: λέγουσα F 3 ἐμφαίν. G 6 ἤπερ] εἴπερ G τοῦ
-ἐναντίου] ψευδὴς FGa 8 δριμ.] ἱδρυμένως Α 9 ψεύδ. ἀξιοῖ colloc. Α ἀξιoῖ—
+ἐναντίου] ψευδὴς FGa 8 δριμ.] ἱδρυμένως Α 9 ψεύδ. ἀξιοῖ colloc. Α ἀξιοῖ—
 κακόν (10) om. F 10 καὶ om. G διὰ τοῦτο iter, G 16 ἀποφαίνοιντο a ἂν
 om. FGMa 17 ante prius αὐτὸ add. τὸ a ψεύδεται a 20 ψεύσεται G:
 om. M 21 αὐτὴ AM προσφέρ. Aa 23 εἰλικρινὲς M 25 προσνέμειν a

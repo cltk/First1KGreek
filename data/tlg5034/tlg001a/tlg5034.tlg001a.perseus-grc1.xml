@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-    
+    <teiHeader xml:lang="eng">    
         <fileDesc>
             <titleStmt>
                 <title xml:lang="mul">Scholia in Pindarum Olympian Odes</title>
-
                 <author>Pindar Scholia</author>
                 <editor>A. B. Drachmann</editor>
-                <funder>A Google Digital Humanities Award</funder>
+                <funder>Google Digital Humanities Awards Program</funder>
                 <principal>Gregory Crane</principal>
                 <respStmt>
                     <persName xml:id="DDD">Digital Divide Data</persName>
@@ -21,11 +19,11 @@
                 </respStmt>
                 <respStmt>
                     <persName>Matt Munson</persName>
-                    <resp>Project Manager (University of Leipzig), 2016 - present</resp>
+                    <resp>Project Manager (University of Leipzig)</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Annette Gessner</persName>
-                    <resp>Project Assistant (University of Leipzig) 2015 - present</resp>
+                    <resp>Project Assistant (University of Leipzig)</resp>
                 </respStmt>
                 <respStmt>
                     <persName>Thibault Clérice</persName>
@@ -47,18 +45,17 @@
                         <analytic/>
                         <monogr>
                             <author>Scholia Pindar</author>
-                            <title xml:lang="mul">Scholia in Pindarum Olympian Odes</title>
+                            <title xml:lang="lat">Scholia in Olympionicas</title>
                             <editor>A. B. Drachmann</editor>
                             <imprint>
                                 <pubPlace>Leipzig</pubPlace>
                                 <publisher xml:lang="lat">B.G. Teubneri</publisher>
                                 <date>1903</date>
-                            </imprint>
-                            
+                            </imprint>                            
                         </monogr>
-                        <series><title level="s" xml:lang="lat">Scholia in Olympionicas</title><biblScope n="volume">1</biblScope></series>
-                        
-                        <ref type="https://archive.org/details/scholiaveterain00dracgoog">Internet Archive</ref>
+                        <series><title level="s" xml:lang="lat">Scholia Vetera in Pindari Carmina</title>
+                            <biblScope n="volume">1</biblScope></series>
+                        <ref target="https://archive.org/details/scholiaveterain00dracgoog">Internet Archive</ref>
                     </biblStruct>
                 </listBibl>
             </sourceDesc>
@@ -5417,7 +5414,7 @@
                         <p>h. ἄλλως· Στυμφαλὶς εὐανθὴς Μετώπα: Ἀρκαδική. <note n="EHQ"/> Στύμφηλος
                             γὰρ πόλις Ἀρκαδίας. Ὅμηρος (B 608)· <lb/>Στύμφηλόν τ᾿ εἶχον καὶ
                             Παρρασίην ἐνέμοντο.</p>
-                        <p>i. ματρομάτoρα δὲ λέγει τὴν Μετώπην ὁ Πίνδαρος οὕτω· | Μετώπη θυγάτηρ μὲν
+                        <p>i. ματρομάτορα δὲ λέγει τὴν Μετώπην ὁ Πίνδαρος οὕτω· | Μετώπη θυγάτηρ μὲν
                             Λάδωνος τοῦ ποταμοῦ τῆς Ἀρκαδίας, <note n="BE(H)Q"/> γυνὴ δὲ Ἀσωποῦ τοῦ
                             ἐν Θήβαις ποταμοῦ.</p>
                         <p>k. φασὶ δὲ τὴν Μετώπην οἱ μὲν λίμνην, οἱ δὲ ποταμόν. Thom. 232, 5</p>
